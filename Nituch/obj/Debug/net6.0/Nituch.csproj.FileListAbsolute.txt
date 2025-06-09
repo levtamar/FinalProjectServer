@@ -1,0 +1,187 @@
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\bin\Debug\net6.0\Nituch.exe
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\bin\Debug\net6.0\Nituch.deps.json
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\bin\Debug\net6.0\Nituch.runtimeconfig.json
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\bin\Debug\net6.0\Nituch.dll
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\bin\Debug\net6.0\Nituch.pdb
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\obj\Debug\net6.0\Nituch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfo.cs
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\obj\Debug\net6.0\Nituch.dll
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\obj\Debug\net6.0\refint\Nituch.dll
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\obj\Debug\net6.0\Nituch.pdb
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\obj\Debug\net6.0\Nituch.genruntimeconfig.cache
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\obj\Debug\net6.0\ref\Nituch.dll
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\user\Desktop\תכנות\פרויקט\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CopyComplete
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.exe
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.deps.json
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.runtimeconfig.json
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.dll
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.pdb
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.AssemblyReference.cache
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfoInputs.cache
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfo.cs
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CoreCompileInputs.cache
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CopyComplete
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.dll
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\refint\Nituch.dll
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.pdb
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.genruntimeconfig.cache
+C:\Users\תמר לב\Downloads\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\ref\Nituch.dll
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.exe
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.deps.json
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.runtimeconfig.json
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfo.cs
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CopyComplete
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\refint\Nituch.dll
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.genruntimeconfig.cache
+C:\Users\User\Desktop\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\ref\Nituch.dll
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.exe
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.deps.json
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.runtimeconfig.json
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.dll
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\Nituch.pdb
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.AssemblyReference.cache
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfoInputs.cache
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfo.cs
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CoreCompileInputs.cache
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CopyComplete
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.dll
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\refint\Nituch.dll
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.pdb
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\Nituch.genruntimeconfig.cache
+C:\Users\תמר לב\Downloads\תמר לב\תמר לב\גיבוי תמר\גיבוי תמר\Nituch\Nituch\obj\Debug\net6.0\ref\Nituch.dll
+C:\Users\User\Desktop\Nituch\Nituch\bin\Debug\net6.0\Nituch.exe
+C:\Users\User\Desktop\Nituch\Nituch\bin\Debug\net6.0\Nituch.deps.json
+C:\Users\User\Desktop\Nituch\Nituch\bin\Debug\net6.0\Nituch.runtimeconfig.json
+C:\Users\User\Desktop\Nituch\Nituch\bin\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\Nituch\Nituch\bin\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\Nituch\Nituch\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\User\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfo.cs
+C:\Users\User\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CopyComplete
+C:\Users\User\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\Nituch\Nituch\obj\Debug\net6.0\refint\Nituch.dll
+C:\Users\User\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.genruntimeconfig.cache
+C:\Users\User\Desktop\Nituch\Nituch\obj\Debug\net6.0\ref\Nituch.dll
+C:\Users\תמר לב\Desktop\Nituch\Nituch\bin\Debug\net6.0\Nituch.exe
+C:\Users\תמר לב\Desktop\Nituch\Nituch\bin\Debug\net6.0\Nituch.deps.json
+C:\Users\תמר לב\Desktop\Nituch\Nituch\bin\Debug\net6.0\Nituch.runtimeconfig.json
+C:\Users\תמר לב\Desktop\Nituch\Nituch\bin\Debug\net6.0\Nituch.dll
+C:\Users\תמר לב\Desktop\Nituch\Nituch\bin\Debug\net6.0\Nituch.pdb
+C:\Users\תמר לב\Desktop\Nituch\Nituch\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\תמר לב\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.AssemblyReference.cache
+C:\Users\תמר לב\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תמר לב\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfoInputs.cache
+C:\Users\תמר לב\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfo.cs
+C:\Users\תמר לב\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CoreCompileInputs.cache
+C:\Users\תמר לב\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CopyComplete
+C:\Users\תמר לב\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.dll
+C:\Users\תמר לב\Desktop\Nituch\Nituch\obj\Debug\net6.0\refint\Nituch.dll
+C:\Users\תמר לב\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.pdb
+C:\Users\תמר לב\Desktop\Nituch\Nituch\obj\Debug\net6.0\Nituch.genruntimeconfig.cache
+C:\Users\תמר לב\Desktop\Nituch\Nituch\obj\Debug\net6.0\ref\Nituch.dll
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\bin\Debug\net6.0\Nituch.exe
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\bin\Debug\net6.0\Nituch.deps.json
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\bin\Debug\net6.0\Nituch.runtimeconfig.json
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\bin\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\bin\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\obj\Debug\net6.0\Nituch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfo.cs
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CopyComplete
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\obj\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\obj\Debug\net6.0\refint\Nituch.dll
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\obj\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\obj\Debug\net6.0\Nituch.genruntimeconfig.cache
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch\Nituch\obj\Debug\net6.0\ref\Nituch.dll
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\bin\Debug\net6.0\Nituch.exe
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\bin\Debug\net6.0\Nituch.deps.json
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\bin\Debug\net6.0\Nituch.runtimeconfig.json
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\bin\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\bin\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\obj\Debug\net6.0\Nituch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfo.cs
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CopyComplete
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\obj\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\obj\Debug\net6.0\refint\Nituch.dll
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\obj\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\obj\Debug\net6.0\Nituch.genruntimeconfig.cache
+C:\Users\User\Desktop\מעודכן ביותר\Nituch\Nituch\obj\Debug\net6.0\ref\Nituch.dll
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.exe
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.deps.json
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.runtimeconfig.json
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfo.cs
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CopyComplete
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\obj\Debug\net6.0\refint\Nituch.dll
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.genruntimeconfig.cache
+C:\Users\User\Desktop\יו חמישי בערב לחץ\Nituch\Nituch\Nituch\obj\Debug\net6.0\ref\Nituch.dll
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.exe
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.deps.json
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.runtimeconfig.json
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfo.cs
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CopyComplete
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\refint\Nituch.dll
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.genruntimeconfig.cache
+C:\Users\User\Desktop\‏‏תיקיה חדשה (2)\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\ref\Nituch.dll
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.exe
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.deps.json
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.runtimeconfig.json
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.AssemblyInfo.cs
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.csproj.CopyComplete
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.dll
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\refint\Nituch.dll
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.pdb
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\Nituch.genruntimeconfig.cache
+C:\Users\User\Desktop\Nituch (1)\Nituch\Nituch\Nituch\obj\Debug\net6.0\ref\Nituch.dll
